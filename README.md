@@ -25,3 +25,11 @@
 * *Artigo Científico*: "A Simbiose entre Direito e Tecnologia: O uso estratégico de Kotlin, Python e IA no Ecossistema Anjo Protetor".
 * *Instituição*: Uninassau, João Pessoa, Paraíba.
 * *Temática*: Direito Digital, Inteligência Artificial, Segurança Pública e aplicação da Lei Maria da Penha.
+---
+
+## Projeto 2: HumaIALaw
+* *Descrição*: Ferramenta de LegalTech desenvolvida para suporte estratégico e técnico a advogados e estudantes de Direito.
+* *Funcionalidades e Integrações*: Sistema inteligente para análise de questões e atualização normativa.
+* *Base Técnica*: Pesquisa aplicada em Inteligência Artificial e Direito Digital para otimização de fluxos jurídicos.
+* *Diferencial Jurídico*: Foco em Metodologia Ativa e Prática Jurídica, unindo o Bacharelado em Direito à inovação do desenvolvimento backend.
+*
